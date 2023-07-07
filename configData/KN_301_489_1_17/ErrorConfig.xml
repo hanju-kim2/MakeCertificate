@@ -1,0 +1,1057 @@
+<Errors>
+    <ErrorCells>
+
+        <!-- 전기장 방사성 방해 시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G276</Date>
+            <Pivot>I231</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G277</Date>
+            <Pivot>I231</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G278</Date>
+            <Pivot>I231</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G279</Date>
+            <Pivot>I231</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G280</Date>
+            <Pivot>I231</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G281</Date>
+            <Pivot>I231</Pivot>
+        </ErrorCell>
+
+        <!-- 방사측정 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G284</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G285</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G286</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G287</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G288</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G289</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G290</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G291</Date>
+            <Pivot>I247</Pivot>
+        </ErrorCell>
+
+        <!-- 자기장 방사성 방해 시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G295</Date>
+            <Pivot>I263</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G296</Date>
+            <Pivot>I263</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G297</Date>
+            <Pivot>I263</Pivot>
+        </ErrorCell>
+
+        <!-- 주 전원포트 방해 전압 시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G356</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G357</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G358</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G359</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G360</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G361</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G362</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G363</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G364</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G365</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G366</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G367</Date>
+            <Pivot>I305</Pivot>
+        </ErrorCell>
+
+        <!-- 통신포트/제어포트 방해 전압 시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G370</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G371</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G372</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G373</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G374</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G375</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G376</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G377</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G378</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G379</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G380</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G381</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G382</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G383</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G384</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G385</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G386</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G387</Date>
+            <Pivot>I321</Pivot>
+        </ErrorCell>
+
+        <!-- 부하 및 부하단자 방해 전압 시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G390</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G391</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G392</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G393</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G394</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G395</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G396</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G397</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G398</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G399</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G400</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G401</Date>
+            <Pivot>I337</Pivot>
+        </ErrorCell>
+
+        <!-- Harmonics/Flicker -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G449</Date>
+            <Pivot>I411</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G450</Date>
+            <Pivot>I411</Pivot>
+        </ErrorCell>
+
+        <!-- 불연속성 방해시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G453</Date>
+            <Pivot>I421</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G454</Date>
+            <Pivot>I421</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G455</Date>
+            <Pivot>I421</Pivot>
+        </ErrorCell>
+
+        <!-- EMF -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G459</Date>
+            <Pivot>I431</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G460</Date>
+            <Pivot>I431</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G461</Date>
+            <Pivot>I431</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G462</Date>
+            <Pivot>I431</Pivot>
+        </ErrorCell>
+
+        <!-- 방해전력 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G465</Date>
+            <Pivot>I438</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G466</Date>
+            <Pivot>I438</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G467</Date>
+            <Pivot>I438</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G468</Date>
+            <Pivot>I438</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G469</Date>
+            <Pivot>I438</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G470</Date>
+            <Pivot>I438</Pivot>
+        </ErrorCell>
+
+        <!-- TV/FM 방송수신기 튜너 포트 단자전압 측정 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G485</Date>
+            <Pivot>I482</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G486</Date>
+            <Pivot>I482</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G487</Date>
+            <Pivot>I482</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G488</Date>
+            <Pivot>I482</Pivot>
+        </ErrorCell>
+
+        <!-- RF 변조기 출력포트 단자전압 측정 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G501</Date>
+            <Pivot>I498</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G501</Date>
+            <Pivot>I498</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G501</Date>
+            <Pivot>I498</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G501</Date>
+            <Pivot>I498</Pivot>
+        </ErrorCell>
+
+        <!-- 정전기 방전 내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G546</Date>
+            <Pivot>H509</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G547</Date>
+            <Pivot>H509</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G548</Date>
+            <Pivot>H509</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G549</Date>
+            <Pivot>H509</Pivot>
+        </ErrorCell>
+
+        <!-- 방사성 RF 전자기장 내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G575</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G576</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G577</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G578</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G579</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G580</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G581</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G582</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G583</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G584</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G585</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G586</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G587</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G588</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G589</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G590</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G591</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G592</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G593</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G594</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G595</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G596</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G597</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G598</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G599</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G600</Date>
+            <Pivot>H554</Pivot>
+        </ErrorCell>
+
+        <!-- EFT/버스트 내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G631</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G632</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G633</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G634</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G635</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G636</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G637</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G638</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G639</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G640</Date>
+            <Pivot>H605</Pivot>
+        </ErrorCell>
+
+        <!-- 서지내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G681</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G682</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G683</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G684</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G685</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G686</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G687</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G688</Date>
+            <Pivot>H645</Pivot>
+        </ErrorCell>
+
+        <!-- 전도성 RF 전자기장 내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G708</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G709</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G710</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G711</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G712</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G713</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G714</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G715</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G716</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G717</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G718</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G719</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G720</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G721</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G722</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G723</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G724</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G725</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G726</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G727</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G728</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G729</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G730</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G731</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G732</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G733</Date>
+            <Pivot>H693</Pivot>
+        </ErrorCell>
+
+        <!-- 전원주파수 자계 내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G752</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G753</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G754</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G755</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G756</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G757</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G758</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G759</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G760</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G761</Date>
+            <Pivot>H738</Pivot>
+        </ErrorCell>
+        
+        <!-- 전압강하 및 순간정전 내성시험 -->
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G783</Date>
+            <Pivot>H767</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G784</Date>
+            <Pivot>H767</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G785</Date>
+            <Pivot>H767</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G786</Date>
+            <Pivot>H767</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G787</Date>
+            <Pivot>H767</Pivot>
+        </ErrorCell>
+
+        <ErrorCell>
+            <FromFile>측정지시서</FromFile>
+            <Date>G788</Date>
+            <Pivot>H767</Pivot>
+        </ErrorCell>
+
+    </ErrorCells>
+
+</Errors>

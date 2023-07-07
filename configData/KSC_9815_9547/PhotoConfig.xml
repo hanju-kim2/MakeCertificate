@@ -1,0 +1,2019 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Photos>
+<BasicPhotos>
+<!-- 7.1 -->
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+1.jpg</Photo>
+        <ToCellStart>E1655</ToCellStart>
+        <ToCellEnd>AH1702</ToCellEnd>
+        <Flag>E1655</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+1.jpg</Photo>
+        <ToCellStart>E1710</ToCellStart>
+        <ToCellEnd>AH1757</ToCellEnd>
+        <Flag>E1710</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+2.jpg</Photo>
+        <ToCellStart>E1765</ToCellStart>
+        <ToCellEnd>AH1812</ToCellEnd>
+        <Flag>E1765</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+2.jpg</Photo>
+        <ToCellStart>E1820</ToCellStart>
+        <ToCellEnd>AH1867</ToCellEnd>
+        <Flag>E1820</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+3.jpg</Photo>
+        <ToCellStart>E1875</ToCellStart>
+        <ToCellEnd>AH1922</ToCellEnd>
+        <Flag>E1875</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+3.jpg</Photo>
+        <ToCellStart>E1930</ToCellStart>
+        <ToCellEnd>AH1977</ToCellEnd>
+        <Flag>E1930</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+4.jpg</Photo>
+        <ToCellStart>E1985</ToCellStart>
+        <ToCellEnd>AH2032</ToCellEnd>
+        <Flag>E1985</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+4.jpg</Photo>
+        <ToCellStart>E2040</ToCellStart>
+        <ToCellEnd>AH2087</ToCellEnd>
+        <Flag>E2040</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+5.jpg</Photo>
+        <ToCellStart>E2095</ToCellStart>
+        <ToCellEnd>AH2142</ToCellEnd>
+        <Flag>E2095</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+5.jpg</Photo>
+        <ToCellStart>E2150</ToCellStart>
+        <ToCellEnd>AH2197</ToCellEnd>
+        <Flag>E2150</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+6.jpg</Photo>
+        <ToCellStart>E2205</ToCellStart>
+        <ToCellEnd>AH2252</ToCellEnd>
+        <Flag>E2205</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+6.jpg</Photo>
+        <ToCellStart>E2260</ToCellStart>
+        <ToCellEnd>AH2307</ToCellEnd>
+        <Flag>E2260</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+7.jpg</Photo>
+        <ToCellStart>E2315</ToCellStart>
+        <ToCellEnd>AH2362</ToCellEnd>
+        <Flag>E2315</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+7.jpg</Photo>
+        <ToCellStart>E2370</ToCellStart>
+        <ToCellEnd>AH2417</ToCellEnd>
+        <Flag>E2370</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_L -->
+    <BasicPhoto>
+        <Photo>CE_L+8.jpg</Photo>
+        <ToCellStart>E2425</ToCellStart>
+        <ToCellEnd>AH2472</ToCellEnd>
+        <Flag>E2425</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE_N -->
+    <BasicPhoto>
+        <Photo>CE_N+8.jpg</Photo>
+        <ToCellStart>E2480</ToCellStart>
+        <ToCellEnd>AH2527</ToCellEnd>
+        <Flag>E2480</Flag>
+    </BasicPhoto>
+
+<!-- 7.2 유선통신망 포트 시험 사진 -->
+<BasicPhoto>
+        <Photo>CE TEL+1.jpg</Photo>
+        <ToCellStart>E2645</ToCellStart>
+        <ToCellEnd>AH2693</ToCellEnd>
+        <Flag>E2645</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+2.jpg</Photo>
+        <ToCellStart>E2700</ToCellStart>
+        <ToCellEnd>AH2748</ToCellEnd>
+        <Flag>E2700</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+3.jpg</Photo>
+        <ToCellStart>E2755</ToCellStart>
+        <ToCellEnd>AH2803</ToCellEnd>
+        <Flag>E2755</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+4.jpg</Photo>
+        <ToCellStart>E2810</ToCellStart>
+        <ToCellEnd>AH2858</ToCellEnd>
+        <Flag>E2810</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+5.jpg</Photo>
+        <ToCellStart>E2865</ToCellStart>
+        <ToCellEnd>AH2913</ToCellEnd>
+        <Flag>E2865</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+6.jpg</Photo>
+        <ToCellStart>E2920</ToCellStart>
+        <ToCellEnd>AH2968</ToCellEnd>
+        <Flag>E2920</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+7.jpg</Photo>
+        <ToCellStart>E2975</ToCellStart>
+        <ToCellEnd>AH3023</ToCellEnd>
+        <Flag>E2975</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / CE TEL -->
+    <BasicPhoto>
+        <Photo>CE TEL+8.jpg</Photo>
+        <ToCellStart>E3030</ToCellStart>
+        <ToCellEnd>AH3078</ToCellEnd>
+        <Flag>E3030</Flag>
+    </BasicPhoto>
+<!-- 7.3 -->
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+1.jpg</Photo>
+        <ToCellStart>E3140</ToCellStart>
+        <ToCellEnd>AH3188</ToCellEnd>
+        <Flag>E3140</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+2.jpg</Photo>
+        <ToCellStart>E3195</ToCellStart>
+        <ToCellEnd>AH3243</ToCellEnd>
+        <Flag>E3195</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+3.jpg</Photo>
+        <ToCellStart>E3250</ToCellStart>
+        <ToCellEnd>AH3298</ToCellEnd>
+        <Flag>E3250</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+4.jpg</Photo>
+        <ToCellStart>E3305</ToCellStart>
+        <ToCellEnd>AH3353</ToCellEnd>
+        <Flag>E3305</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+5.jpg</Photo>
+        <ToCellStart>E3360</ToCellStart>
+        <ToCellEnd>AH3408</ToCellEnd>
+        <Flag>E3360</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+6.jpg</Photo>
+        <ToCellStart>E3415</ToCellStart>
+        <ToCellEnd>AH3463</ToCellEnd>
+        <Flag>E3415</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+7.jpg</Photo>
+        <ToCellStart>E3470</ToCellStart>
+        <ToCellEnd>AH3518</ToCellEnd>
+        <Flag>E3470</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / click -->
+    <BasicPhoto>
+        <Photo>CLICK+8.jpg</Photo>
+        <ToCellStart>E3525</ToCellStart>
+        <ToCellEnd>AH3573</ToCellEnd>
+        <Flag>E3525</Flag>
+    </BasicPhoto>
+
+<!-- 7.4 -->
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+1.jpg</Photo>
+        <ToCellStart>E3635</ToCellStart>
+        <ToCellEnd>AH3683</ToCellEnd>
+        <Flag>E3635</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+2.jpg</Photo>
+        <ToCellStart>E3690</ToCellStart>
+        <ToCellEnd>AH3738</ToCellEnd>
+        <Flag>E3690</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+3.jpg</Photo>
+        <ToCellStart>E3745</ToCellStart>
+        <ToCellEnd>AH3793</ToCellEnd>
+        <Flag>E3745</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+4.jpg</Photo>
+        <ToCellStart>E3800</ToCellStart>
+        <ToCellEnd>AH3848</ToCellEnd>
+        <Flag>E3800</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+5.jpg</Photo>
+        <ToCellStart>E3855</ToCellStart>
+        <ToCellEnd>AH3903</ToCellEnd>
+        <Flag>E3855</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+6.jpg</Photo>
+        <ToCellStart>E3910</ToCellStart>
+        <ToCellEnd>AH3958</ToCellEnd>
+        <Flag>E3910</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+7.jpg</Photo>
+        <ToCellStart>E3965</ToCellStart>
+        <ToCellEnd>AH4013</ToCellEnd>
+        <Flag>E3965</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / abs -->
+    <BasicPhoto>
+        <Photo>ABS+8.jpg</Photo>
+        <ToCellStart>E4020</ToCellStart>
+        <ToCellEnd>AH4068</ToCellEnd>
+        <Flag>E4020</Flag>
+    </BasicPhoto>
+
+<!-- 7.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험-->
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+1.jpg</Photo>
+        <ToCellStart>E4130</ToCellStart>
+        <ToCellEnd>AH4176</ToCellEnd>
+        <Flag>E4130</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+1.jpg</Photo>
+        <ToCellStart>E4185</ToCellStart>
+        <ToCellEnd>AH4231</ToCellEnd>
+        <Flag>E4185</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+2.jpg</Photo>
+        <ToCellStart>E4240</ToCellStart>
+        <ToCellEnd>AH4286</ToCellEnd>
+        <Flag>E4240</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+2.jpg</Photo>
+        <ToCellStart>E4295</ToCellStart>
+        <ToCellEnd>AH4341</ToCellEnd>
+        <Flag>E4295</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+3.jpg</Photo>
+        <ToCellStart>E4350</ToCellStart>
+        <ToCellEnd>AH4396</ToCellEnd>
+        <Flag>E4350</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+3.jpg</Photo>
+        <ToCellStart>E4405</ToCellStart>
+        <ToCellEnd>AH4451</ToCellEnd>
+        <Flag>E4405</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+4.jpg</Photo>
+        <ToCellStart>E4460</ToCellStart>
+        <ToCellEnd>AH4506</ToCellEnd>
+        <Flag>E4460</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+4.jpg</Photo>
+        <ToCellStart>E4515</ToCellStart>
+        <ToCellEnd>AH4561</ToCellEnd>
+        <Flag>E4515</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+5.jpg</Photo>
+        <ToCellStart>E4570</ToCellStart>
+        <ToCellEnd>AH4616</ToCellEnd>
+        <Flag>E4570</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+5.jpg</Photo>
+        <ToCellStart>E4625</ToCellStart>
+        <ToCellEnd>AH4671</ToCellEnd>
+        <Flag>E4625</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+6.jpg</Photo>
+        <ToCellStart>E4680</ToCellStart>
+        <ToCellEnd>AH4726</ToCellEnd>
+        <Flag>E4680</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+6.jpg</Photo>
+        <ToCellStart>E4735</ToCellStart>
+        <ToCellEnd>AH4781</ToCellEnd>
+        <Flag>E4735</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+7.jpg</Photo>
+        <ToCellStart>E4790</ToCellStart>
+        <ToCellEnd>AH4836</ToCellEnd>
+        <Flag>E4790</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+7.jpg</Photo>
+        <ToCellStart>E4845</ToCellStart>
+        <ToCellEnd>AH4891</ToCellEnd>
+        <Flag>E4845</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_H -->
+    <BasicPhoto>
+        <Photo>TLA_H+8.jpg</Photo>
+        <ToCellStart>E4900</ToCellStart>
+        <ToCellEnd>AH4946</ToCellEnd>
+        <Flag>E4900</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / TLA_V -->
+    <BasicPhoto>
+        <Photo>TLA_V+8.jpg</Photo>
+        <ToCellStart>E4955</ToCellStart>
+        <ToCellEnd>AH5001</ToCellEnd>
+        <Flag>E4955</Flag>
+    </BasicPhoto>
+    
+<!-- 7.6 -->
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+1.jpg</Photo>
+        <ToCellStart>E5065</ToCellStart>
+        <ToCellEnd>AH5113</ToCellEnd>
+        <Flag>E5065</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+2.jpg</Photo>
+        <ToCellStart>E5120</ToCellStart>
+        <ToCellEnd>AH5168</ToCellEnd>
+        <Flag>E5120</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+3.jpg</Photo>
+        <ToCellStart>E5175</ToCellStart>
+        <ToCellEnd>AH5223</ToCellEnd>
+        <Flag>E5175</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+4.jpg</Photo>
+        <ToCellStart>E5230</ToCellStart>
+        <ToCellEnd>AH5278</ToCellEnd>
+        <Flag>E5230</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+5.jpg</Photo>
+        <ToCellStart>E5285</ToCellStart>
+        <ToCellEnd>AH5333</ToCellEnd>
+        <Flag>E5285</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+6.jpg</Photo>
+        <ToCellStart>E5340</ToCellStart>
+        <ToCellEnd>AH388</ToCellEnd>
+        <Flag>E5340</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+7.jpg</Photo>
+        <ToCellStart>E5395</ToCellStart>
+        <ToCellEnd>AH5443</ToCellEnd>
+        <Flag>E5395</Flag>
+    </BasicPhoto>
+
+    <!-- 03_Data 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+8.jpg</Photo>
+        <ToCellStart>E5450</ToCellStart>
+        <ToCellEnd>AH5498</ToCellEnd>
+        <Flag>E5450</Flag>
+    </BasicPhoto>
+
+<!-- 7.8 -->
+    <!-- 03_Photo 폴더 / RS -->
+    <BasicPhoto>
+        <Photo>RS+1.jpg</Photo>
+        <ToCellStart>D6001</ToCellStart>
+        <ToCellEnd>AI6022</ToCellEnd>
+        <Flag>D6001</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+2.jpg</Photo>
+        <ToCellStart>D6025</ToCellStart>
+        <ToCellEnd>AI6046</ToCellEnd>
+        <Flag>D6025</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+3.jpg</Photo>
+        <ToCellStart>D6056</ToCellStart>
+        <ToCellEnd>AI6077</ToCellEnd>
+        <Flag>D6056</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+4.jpg</Photo>
+        <ToCellStart>D6080</ToCellStart>
+        <ToCellEnd>AI6101</ToCellEnd>
+        <Flag>D6080</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+5.jpg</Photo>
+        <ToCellStart>D6111</ToCellStart>
+        <ToCellEnd>AI6132</ToCellEnd>
+        <Flag>D6111</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+6.jpg</Photo>
+        <ToCellStart>D6135</ToCellStart>
+        <ToCellEnd>AI6156</ToCellEnd>
+        <Flag>D6135</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+7.jpg</Photo>
+        <ToCellStart>D6166</ToCellStart>
+        <ToCellEnd>AI6187</ToCellEnd>
+        <Flag>D6166</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RS+8.jpg</Photo>
+        <ToCellStart>D6190</ToCellStart>
+        <ToCellEnd>AI6211</ToCellEnd>
+        <Flag>D6190</Flag>
+    </BasicPhoto>
+
+<!-- 9.0 -->
+    <!-- 03_PHOTO 폴더 / 제품사진 / 전면.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 전면.jpg</Photo>
+        <ToCellStart>D11338</ToCellStart>
+        <ToCellEnd>AI11359</ToCellEnd>
+        <Flag>D11338</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 후면.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 후면.jpg</Photo>
+        <ToCellStart>D11362</ToCellStart>
+        <ToCellEnd>AI11383</ToCellEnd>
+        <Flag>D11362</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 라벨.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 라벨.jpg</Photo>
+        <ToCellStart>D11390</ToCellStart>
+        <ToCellEnd>AI11411</ToCellEnd>
+        <Flag>D11390</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 내부.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 내부.jpg</Photo>
+        <ToCellStart>D11415</ToCellStart>
+        <ToCellEnd>AI11436</ToCellEnd>
+        <Flag>D11415</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+1.jpg</Photo>
+        <ToCellStart>D6939</ToCellStart>
+        <ToCellEnd>AI6960</ToCellEnd>
+        <Flag>D5729</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+1.jpg</Photo>
+        <ToCellStart>D6962</ToCellStart>
+        <ToCellEnd>AI6983</ToCellEnd>
+        <Flag>D6962</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+2.jpg</Photo>
+        <ToCellStart>D6989</ToCellStart>
+        <ToCellEnd>AI7010</ToCellEnd>
+        <Flag>D6989</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+2.jpg</Photo>
+        <ToCellStart>D7012</ToCellStart>
+        <ToCellEnd>AI7033</ToCellEnd>
+        <Flag>D7012</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+3.jpg</Photo>
+        <ToCellStart>D7044</ToCellStart>
+        <ToCellEnd>AI7065</ToCellEnd>
+        <Flag>D7044</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+3.jpg</Photo>
+        <ToCellStart>D7067</ToCellStart>
+        <ToCellEnd>AI7088</ToCellEnd>
+        <Flag>D7067</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+4.jpg</Photo>
+        <ToCellStart>D7099</ToCellStart>
+        <ToCellEnd>AI7120</ToCellEnd>
+        <Flag>D7099</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+4.jpg</Photo>
+        <ToCellStart>D7122</ToCellStart>
+        <ToCellEnd>AI7143</ToCellEnd>
+        <Flag>D7122</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+5.jpg</Photo>
+        <ToCellStart>D7154</ToCellStart>
+        <ToCellEnd>AI7175</ToCellEnd>
+        <Flag>D7154</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+5.jpg</Photo>
+        <ToCellStart>D7177</ToCellStart>
+        <ToCellEnd>AI7198</ToCellEnd>
+        <Flag>D7177</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+6.jpg</Photo>
+        <ToCellStart>D7209</ToCellStart>
+        <ToCellEnd>AI7230</ToCellEnd>
+        <Flag>D7209</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+6.jpg</Photo>
+        <ToCellStart>D7232</ToCellStart>
+        <ToCellEnd>AI7253</ToCellEnd>
+        <Flag>D7232</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+7.jpg</Photo>
+        <ToCellStart>D7264</ToCellStart>
+        <ToCellEnd>AI7285</ToCellEnd>
+        <Flag>D7264</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+7.jpg</Photo>
+        <ToCellStart>D7287</ToCellStart>
+        <ToCellEnd>AI7308</ToCellEnd>
+        <Flag>D7287</Flag>
+    </BasicPhoto>
+
+    <!-- 8.1 주 전원포트 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE1+8.jpg</Photo>
+        <ToCellStart>D7319</ToCellStart>
+        <ToCellEnd>AI7340</ToCellEnd>
+        <Flag>D7319</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE2+8.jpg</Photo>
+        <ToCellStart>D7342</ToCellStart>
+        <ToCellEnd>AI7363</ToCellEnd>
+        <Flag>D7342</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+1.jpg</Photo>
+        <ToCellStart>D7376</ToCellStart>
+        <ToCellEnd>AI7397</ToCellEnd>
+        <Flag>D7376</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+1.jpg</Photo>
+        <ToCellStart>D7399</ToCellStart>
+        <ToCellEnd>AI7420</ToCellEnd>
+        <Flag>D7399</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+2.jpg</Photo>
+        <ToCellStart>D7429</ToCellStart>
+        <ToCellEnd>AI7450</ToCellEnd>
+        <Flag>D7429</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+2.jpg</Photo>
+        <ToCellStart>D7452</ToCellStart>
+        <ToCellEnd>AI7473</ToCellEnd>
+        <Flag>D7452</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+3.jpg</Photo>
+        <ToCellStart>D7484</ToCellStart>
+        <ToCellEnd>AI7505</ToCellEnd>
+        <Flag>D7484</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+3.jpg</Photo>
+        <ToCellStart>D7507</ToCellStart>
+        <ToCellEnd>AI7528</ToCellEnd>
+        <Flag>D7507</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+4.jpg</Photo>
+        <ToCellStart>D7539</ToCellStart>
+        <ToCellEnd>AI7560</ToCellEnd>
+        <Flag>D7539</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+4.jpg</Photo>
+        <ToCellStart>D7562</ToCellStart>
+        <ToCellEnd>AI7583</ToCellEnd>
+        <Flag>D7562</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+5.jpg</Photo>
+        <ToCellStart>D7594</ToCellStart>
+        <ToCellEnd>AI7615</ToCellEnd>
+        <Flag>D7594</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+5.jpg</Photo>
+        <ToCellStart>D7617</ToCellStart>
+        <ToCellEnd>AI7638</ToCellEnd>
+        <Flag>D7617</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+6.jpg</Photo>
+        <ToCellStart>D7649</ToCellStart>
+        <ToCellEnd>AI7670</ToCellEnd>
+        <Flag>D7649</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+6.jpg</Photo>
+        <ToCellStart>D7672</ToCellStart>
+        <ToCellEnd>AI7693</ToCellEnd>
+        <Flag>D7672</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+7.jpg</Photo>
+        <ToCellStart>D7704</ToCellStart>
+        <ToCellEnd>AI7725</ToCellEnd>
+        <Flag>D7704</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+7.jpg</Photo>
+        <ToCellStart>D7727</ToCellStart>
+        <ToCellEnd>AI7748</ToCellEnd>
+        <Flag>D7727</Flag>
+    </BasicPhoto>
+
+    <!-- 8.2 유선통신망 포트의 연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CE TEL1+8.jpg</Photo>
+        <ToCellStart>D7759</ToCellStart>
+        <ToCellEnd>AI7780</ToCellEnd>
+        <Flag>D7759</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>CE TEL2+8.jpg</Photo>
+        <ToCellStart>D7782</ToCellStart>
+        <ToCellEnd>AI7803</ToCellEnd>
+        <Flag>D7782</Flag>
+    </BasicPhoto>
+<!--  -->
+<!--  -->
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+1.jpg</Photo>
+        <ToCellStart>D7815</ToCellStart>
+        <ToCellEnd>AI7836</ToCellEnd>
+        <Flag>D7815</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+2.jpg</Photo>
+        <ToCellStart>D7839</ToCellStart>
+        <ToCellEnd>AI7860</ToCellEnd>
+        <Flag>D7839</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+3.jpg</Photo>
+        <ToCellStart>D7870</ToCellStart>
+        <ToCellEnd>AI7891</ToCellEnd>
+        <Flag>D7870</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+4.jpg</Photo>
+        <ToCellStart>D7894</ToCellStart>
+        <ToCellEnd>AI7915</ToCellEnd>
+        <Flag>D7894</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+5.jpg</Photo>
+        <ToCellStart>D7925</ToCellStart>
+        <ToCellEnd>AI7946</ToCellEnd>
+        <Flag>D7925</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+6.jpg</Photo>
+        <ToCellStart>D7949</ToCellStart>
+        <ToCellEnd>AI7970</ToCellEnd>
+        <Flag>D7949</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+7.jpg</Photo>
+        <ToCellStart>D7980</ToCellStart>
+        <ToCellEnd>AI8001</ToCellEnd>
+        <Flag>D7980</Flag>
+    </BasicPhoto>
+
+    <!-- 8.3 불연속성 방해 전압 시험 -->
+    <BasicPhoto>
+        <Photo>CLICK+8.jpg</Photo>
+        <ToCellStart>D8004</ToCellStart>
+        <ToCellEnd>AI8025</ToCellEnd>
+        <Flag>D8004</Flag>
+    </BasicPhoto>
+<!--  -->
+<!--  -->
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+1.jpg</Photo>
+        <ToCellStart>D8035</ToCellStart>
+        <ToCellEnd>AI8056</ToCellEnd>
+        <Flag>D8035</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+2.jpg</Photo>
+        <ToCellStart>D8059</ToCellStart>
+        <ToCellEnd>AI8080</ToCellEnd>
+        <Flag>D8059</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+3.jpg</Photo>
+        <ToCellStart>D8090</ToCellStart>
+        <ToCellEnd>AI8121</ToCellEnd>
+        <Flag>D8090</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+4.jpg</Photo>
+        <ToCellStart>D8114</ToCellStart>
+        <ToCellEnd>AI8135</ToCellEnd>
+        <Flag>D8114</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+5.jpg</Photo>
+        <ToCellStart>D8145</ToCellStart>
+        <ToCellEnd>AI8166</ToCellEnd>
+        <Flag>D8145</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+6.jpg</Photo>
+        <ToCellStart>D8169</ToCellStart>
+        <ToCellEnd>AI8190</ToCellEnd>
+        <Flag>D8169</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+7.jpg</Photo>
+        <ToCellStart>D8200</ToCellStart>
+        <ToCellEnd>AI8221</ToCellEnd>
+        <Flag>D8200</Flag>
+    </BasicPhoto>
+
+    <!-- 8.4 방해전력 시험 -->
+    <BasicPhoto>
+        <Photo>ABS+8.jpg</Photo>
+        <ToCellStart>D8224</ToCellStart>
+        <ToCellEnd>AI8245</ToCellEnd>
+        <Flag>D8224</Flag>
+    </BasicPhoto>
+<!-- -->
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+1.jpg</Photo>
+        <ToCellStart>D8255</ToCellStart>
+        <ToCellEnd>AI8276</ToCellEnd>
+        <Flag>D8255</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+2.jpg</Photo>
+        <ToCellStart>D8279</ToCellStart>
+        <ToCellEnd>AI8300</ToCellEnd>
+        <Flag>D8279</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+3.jpg</Photo>
+        <ToCellStart>D8310</ToCellStart>
+        <ToCellEnd>AI8331</ToCellEnd>
+        <Flag>D8310</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+4.jpg</Photo>
+        <ToCellStart>D8334</ToCellStart>
+        <ToCellEnd>AI8353</ToCellEnd>
+        <Flag>D8332</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+5.jpg</Photo>
+        <ToCellStart>D8365</ToCellStart>
+        <ToCellEnd>AI8386</ToCellEnd>
+        <Flag>D8365</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+6.jpg</Photo>
+        <ToCellStart>D8389</ToCellStart>
+        <ToCellEnd>AI8410</ToCellEnd>
+        <Flag>D8389</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+7.jpg</Photo>
+        <ToCellStart>D8420</ToCellStart>
+        <ToCellEnd>AI8441</ToCellEnd>
+        <Flag>D8420</Flag>
+    </BasicPhoto>
+
+    <!-- 8.5 유도조리기구의 30 MHz 이하 대역 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>TLA+8.jpg</Photo>
+        <ToCellStart>D8444</ToCellStart>
+        <ToCellEnd>AI8465</ToCellEnd>
+        <Flag>D8444</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+1.jpg</Photo>
+        <ToCellStart>D8476</ToCellStart>
+        <ToCellEnd>AI8497</ToCellEnd>
+        <Flag>D8476</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+1.jpg</Photo>
+        <ToCellStart>D8499</ToCellStart>
+        <ToCellEnd>AI8520</ToCellEnd>
+        <Flag>D8499</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+2.jpg</Photo>
+        <ToCellStart>D8529</ToCellStart>
+        <ToCellEnd>AI8550</ToCellEnd>
+        <Flag>D8529</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+2.jpg</Photo>
+        <ToCellStart>D8552</ToCellStart>
+        <ToCellEnd>AI8573</ToCellEnd>
+        <Flag>D8555</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+3.jpg</Photo>
+        <ToCellStart>D8584</ToCellStart>
+        <ToCellEnd>AI8605</ToCellEnd>
+        <Flag>D8584</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+3.jpg</Photo>
+        <ToCellStart>D8607</ToCellStart>
+        <ToCellEnd>AI8628</ToCellEnd>
+        <Flag>D8607</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+4.jpg</Photo>
+        <ToCellStart>D8639</ToCellStart>
+        <ToCellEnd>AI8660</ToCellEnd>
+        <Flag>D8639</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+4.jpg</Photo>
+        <ToCellStart>D8662</ToCellStart>
+        <ToCellEnd>AI8683</ToCellEnd>
+        <Flag>D8662</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+5.jpg</Photo>
+        <ToCellStart>D8694</ToCellStart>
+        <ToCellEnd>AI8715</ToCellEnd>
+        <Flag>D8694</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+5.jpg</Photo>
+        <ToCellStart>D8717</ToCellStart>
+        <ToCellEnd>AI8738</ToCellEnd>
+        <Flag>D8717</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+6.jpg</Photo>
+        <ToCellStart>D8749</ToCellStart>
+        <ToCellEnd>AI87700</ToCellEnd>
+        <Flag>D8749</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+6.jpg</Photo>
+        <ToCellStart>D8772</ToCellStart>
+        <ToCellEnd>AI8793</ToCellEnd>
+        <Flag>D8772</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+7.jpg</Photo>
+        <ToCellStart>D8804</ToCellStart>
+        <ToCellEnd>AI8825</ToCellEnd>
+        <Flag>D8804</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+7.jpg</Photo>
+        <ToCellStart>D8827</ToCellStart>
+        <ToCellEnd>AI8848</ToCellEnd>
+        <Flag>D8827</Flag>
+    </BasicPhoto>
+
+    <!-- 8.6 방사성 방해 시험 -->
+    <BasicPhoto>
+        <Photo>RE1+8.jpg</Photo>
+        <ToCellStart>D8859</ToCellStart>
+        <ToCellEnd>AI8880</ToCellEnd>
+        <Flag>D8859</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>RE2+8.jpg</Photo>
+        <ToCellStart>D8882</ToCellStart>
+        <ToCellEnd>AI8903</ToCellEnd>
+        <Flag>D8882</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+1.jpg</Photo>
+        <ToCellStart>D8915</ToCellStart>
+        <ToCellEnd>AI8936</ToCellEnd>
+        <Flag>D8915</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+2.jpg</Photo>
+        <ToCellStart>D8939</ToCellStart>
+        <ToCellEnd>AI8960</ToCellEnd>
+        <Flag>D8939</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+3.jpg</Photo>
+        <ToCellStart>D8970</ToCellStart>
+        <ToCellEnd>AI8991</ToCellEnd>
+        <Flag>D8970</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+4.jpg</Photo>
+        <ToCellStart>D8994</ToCellStart>
+        <ToCellEnd>AI9015</ToCellEnd>
+        <Flag>D8994</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+5.jpg</Photo>
+        <ToCellStart>D9025</ToCellStart>
+        <ToCellEnd>AI9046</ToCellEnd>
+        <Flag>D9025</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+6.jpg</Photo>
+        <ToCellStart>D9049</ToCellStart>
+        <ToCellEnd>AI9070</ToCellEnd>
+        <Flag>D9049</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+7.jpg</Photo>
+        <ToCellStart>D9080</ToCellStart>
+        <ToCellEnd>AI9101</ToCellEnd>
+        <Flag>D9080</Flag>
+    </BasicPhoto>
+
+    <!-- 8.7 정전기방전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>ESD+8.jpg</Photo>
+        <ToCellStart>D9104</ToCellStart>
+        <ToCellEnd>AI9125</ToCellEnd>
+        <Flag>D9104</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+1.jpg</Photo>
+        <ToCellStart>D9135</ToCellStart>
+        <ToCellEnd>AI9156</ToCellEnd>
+        <Flag>D9135</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+2.jpg</Photo>
+        <ToCellStart>D9159</ToCellStart>
+        <ToCellEnd>AI9180</ToCellEnd>
+        <Flag>D9159</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+3.jpg</Photo>
+        <ToCellStart>D9190</ToCellStart>
+        <ToCellEnd>AI9211</ToCellEnd>
+        <Flag>D9190</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+4.jpg</Photo>
+        <ToCellStart>D9214</ToCellStart>
+        <ToCellEnd>AI9235</ToCellEnd>
+        <Flag>D9214</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+5.jpg</Photo>
+        <ToCellStart>D9245</ToCellStart>
+        <ToCellEnd>AI9266</ToCellEnd>
+        <Flag>D9245</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+6.jpg</Photo>
+        <ToCellStart>D9269</ToCellStart>
+        <ToCellEnd>AI9290</ToCellEnd>
+        <Flag>D9269</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+7.jpg</Photo>
+        <ToCellStart>D9300</ToCellStart>
+        <ToCellEnd>AI9321</ToCellEnd>
+        <Flag>D9300</Flag>
+    </BasicPhoto>
+
+    <!-- 8.8 방사성 RF 전자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>RS+8.jpg</Photo>
+        <ToCellStart>D9324</ToCellStart>
+        <ToCellEnd>AI9345</ToCellEnd>
+        <Flag>D9324</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+1.jpg</Photo>
+        <ToCellStart>D9356</ToCellStart>
+        <ToCellEnd>AI9377</ToCellEnd>
+        <Flag>D9356</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+1.jpg</Photo>
+        <ToCellStart>D9379</ToCellStart>
+        <ToCellEnd>AI9400</ToCellEnd>
+        <Flag>D9379</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+2.jpg</Photo>
+        <ToCellStart>D9409</ToCellStart>
+        <ToCellEnd>AI9430</ToCellEnd>
+        <Flag>D9409</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+2.jpg</Photo>
+        <ToCellStart>D9432</ToCellStart>
+        <ToCellEnd>AI9453</ToCellEnd>
+        <Flag>D9432</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+3.jpg</Photo>
+        <ToCellStart>D9464</ToCellStart>
+        <ToCellEnd>AI9485</ToCellEnd>
+        <Flag>D9464</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+3.jpg</Photo>
+        <ToCellStart>D9487</ToCellStart>
+        <ToCellEnd>AI9508</ToCellEnd>
+        <Flag>D9487</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+4.jpg</Photo>
+        <ToCellStart>D9519</ToCellStart>
+        <ToCellEnd>AI9530</ToCellEnd>
+        <Flag>D9519</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+4.jpg</Photo>
+        <ToCellStart>D9532</ToCellStart>
+        <ToCellEnd>AI9563</ToCellEnd>
+        <Flag>D9532</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+5.jpg</Photo>
+        <ToCellStart>D9574</ToCellStart>
+        <ToCellEnd>AI9595</ToCellEnd>
+        <Flag>D9574</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+5.jpg</Photo>
+        <ToCellStart>D9597</ToCellStart>
+        <ToCellEnd>AI9618</ToCellEnd>
+        <Flag>D9597</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+6.jpg</Photo>
+        <ToCellStart>D9629</ToCellStart>
+        <ToCellEnd>AI9650</ToCellEnd>
+        <Flag>D9629</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+6.jpg</Photo>
+        <ToCellStart>D9652</ToCellStart>
+        <ToCellEnd>AI9673</ToCellEnd>
+        <Flag>D9652</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+7.jpg</Photo>
+        <ToCellStart>D9684</ToCellStart>
+        <ToCellEnd>AI9705</ToCellEnd>
+        <Flag>D9684</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+7.jpg</Photo>
+        <ToCellStart>D9707</ToCellStart>
+        <ToCellEnd>AI9728</ToCellEnd>
+        <Flag>D9707</Flag>
+    </BasicPhoto>
+
+    <!-- 8.9 전기적 빠른 과도현상 / 버스트 내성 시험 -->
+    <BasicPhoto>
+        <Photo>EFT+8.jpg</Photo>
+        <ToCellStart>D9739</ToCellStart>
+        <ToCellEnd>AI9760</ToCellEnd>
+        <Flag>D9739</Flag>
+    </BasicPhoto>
+
+    <BasicPhoto>
+        <Photo>EFT_TEL+8.jpg</Photo>
+        <ToCellStart>D9762</ToCellStart>
+        <ToCellEnd>AI9783</ToCellEnd>
+        <Flag>D9762</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+1.jpg</Photo>
+        <ToCellStart>D9795</ToCellStart>
+        <ToCellEnd>AI9816</ToCellEnd>
+        <Flag>D9795</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+2.jpg</Photo>
+        <ToCellStart>D9819</ToCellStart>
+        <ToCellEnd>AI9840</ToCellEnd>
+        <Flag>D9819</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+3.jpg</Photo>
+        <ToCellStart>D9850</ToCellStart>
+        <ToCellEnd>AI9871</ToCellEnd>
+        <Flag>D9850</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+4.jpg</Photo>
+        <ToCellStart>D9874</ToCellStart>
+        <ToCellEnd>AI9895</ToCellEnd>
+        <Flag>D9874</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+5.jpg</Photo>
+        <ToCellStart>D9905</ToCellStart>
+        <ToCellEnd>AI9926</ToCellEnd>
+        <Flag>D9905</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+6.jpg</Photo>
+        <ToCellStart>D9929</ToCellStart>
+        <ToCellEnd>AI9950</ToCellEnd>
+        <Flag>D9929</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+7.jpg</Photo>
+        <ToCellStart>D9960</ToCellStart>
+        <ToCellEnd>AI9981</ToCellEnd>
+        <Flag>D9960</Flag>
+    </BasicPhoto>
+
+    <!-- 8.10 서지 내성 시험 -->
+    <BasicPhoto>
+        <Photo>SURGE+8.jpg</Photo>
+        <ToCellStart>D9984</ToCellStart>
+        <ToCellEnd>AI10005</ToCellEnd>
+        <Flag>D9984</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+1.jpg</Photo>
+        <ToCellStart>D10895</ToCellStart>
+        <ToCellEnd>AI10916</ToCellEnd>
+        <Flag>D10895</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+2.jpg</Photo>
+        <ToCellStart>D10919</ToCellStart>
+        <ToCellEnd>AI10940</ToCellEnd>
+        <Flag>D10919</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+3.jpg</Photo>
+        <ToCellStart>D10950</ToCellStart>
+        <ToCellEnd>AI10971</ToCellEnd>
+        <Flag>D10950</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+4.jpg</Photo>
+        <ToCellStart>D10974</ToCellStart>
+        <ToCellEnd>AI10995</ToCellEnd>
+        <Flag>D10974</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+5.jpg</Photo>
+        <ToCellStart>D11005</ToCellStart>
+        <ToCellEnd>AI11026</ToCellEnd>
+        <Flag>D11005</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+6.jpg</Photo>
+        <ToCellStart>D11029</ToCellStart>
+        <ToCellEnd>AI11050</ToCellEnd>
+        <Flag>D11029</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+7.jpg</Photo>
+        <ToCellStart>D11060</ToCellStart>
+        <ToCellEnd>AI11081</ToCellEnd>
+        <Flag>D11060</Flag>
+    </BasicPhoto>
+
+    <!-- 8.13 전원 주파수 자기장 내성 시험 -->
+    <BasicPhoto>
+        <Photo>MF+8.jpg</Photo>
+        <ToCellStart>D11084</ToCellStart>
+        <ToCellEnd>AI11105</ToCellEnd>
+        <Flag>D11084</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+1.jpg</Photo>
+        <ToCellStart>D11115</ToCellStart>
+        <ToCellEnd>AI11136</ToCellEnd>
+        <Flag>D11115</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+2.jpg</Photo>
+        <ToCellStart>D11139</ToCellStart>
+        <ToCellEnd>AI11160</ToCellEnd>
+        <Flag>D11139</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+3.jpg</Photo>
+        <ToCellStart>D11170</ToCellStart>
+        <ToCellEnd>AI11191</ToCellEnd>
+        <Flag>D11170</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+4.jpg</Photo>
+        <ToCellStart>D11194</ToCellStart>
+        <ToCellEnd>AI11215</ToCellEnd>
+        <Flag>D11194</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+5.jpg</Photo>
+        <ToCellStart>D11225</ToCellStart>
+        <ToCellEnd>AI11246</ToCellEnd>
+        <Flag>D11225</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+6.jpg</Photo>
+        <ToCellStart>D11249</ToCellStart>
+        <ToCellEnd>AI11270</ToCellEnd>
+        <Flag>D11249</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+7.jpg</Photo>
+        <ToCellStart>D11280</ToCellStart>
+        <ToCellEnd>AI11301</ToCellEnd>
+        <Flag>D11280</Flag>
+    </BasicPhoto>
+
+    <!-- 8.14 전압강하 및 순간정전 내성 시험 -->
+    <BasicPhoto>
+        <Photo>DIP+8.jpg</Photo>
+        <ToCellStart>D11304</ToCellStart>
+        <ToCellEnd>AI11325</ToCellEnd>
+        <Flag>D11304</Flag>
+    </BasicPhoto>
+
+</BasicPhotos>
+
+<ExcelPhotos>
+<!-- 8페이지 -->
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 1</Photo>
+        <ToCellStart>D393</ToCellStart>
+        <ToCellEnd>S404</ToCellEnd>
+        <Flag>D393</Flag>
+    </ExcelPhoto>
+
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 2</Photo>
+        <ToCellStart>T393</ToCellStart>
+        <ToCellEnd>AI404</ToCellEnd>
+        <Flag>T393</Flag>
+    </ExcelPhoto>
+
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 3</Photo>
+        <ToCellStart>D415</ToCellStart>
+        <ToCellEnd>S426</ToCellEnd>
+        <Flag>D415</Flag>
+    </ExcelPhoto>
+
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 4</Photo>
+        <ToCellStart>T415</ToCellStart>
+        <ToCellEnd>AI426</ToCellEnd>
+        <Flag>T415</Flag>
+    </ExcelPhoto>
+
+    <!-- Specification 사진 보류 -->
+
+    <!-- 02_DATA / 측정지시서 2p / 2-3 시험기기 배치도의 그림1 기입 -->
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>배치도1</Photo>
+        <ToCellStart>D1005</ToCellStart>
+        <ToCellEnd>AI1024</ToCellEnd>
+        <Flag>D1004</Flag>
+    </ExcelPhoto>
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>배치도2</Photo>
+        <ToCellStart>D1026</ToCellStart>
+        <ToCellEnd>AI1045</ToCellEnd>
+        <Flag>D1026</Flag>
+    </ExcelPhoto>
+
+<!-- 35페이지 -->
+    <!-- '02_DATA / 측정지시서 20p / 정전기 방전 그림 2 기입 -->
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>ESD인가1</Photo>
+        <ToCellStart>D5615</ToCellStart>
+        <ToCellEnd>AI5663</ToCellEnd>
+        <Flag>D5615</Flag>
+    </ExcelPhoto>
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>ESD인가2</Photo>
+        <ToCellStart>D5670</ToCellStart>
+        <ToCellEnd>AI5718</ToCellEnd>
+        <Flag>D5670</Flag>
+    </ExcelPhoto>
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>ESD인가3</Photo>
+        <ToCellStart>D5725</ToCellStart>
+        <ToCellEnd>AI5773</ToCellEnd>
+        <Flag>D5725</Flag>
+    </ExcelPhoto>
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>ESD인가4</Photo>
+        <ToCellStart>D5780</ToCellStart>
+        <ToCellEnd>AI5828</ToCellEnd>
+        <Flag>D5780</Flag>
+    </ExcelPhoto>
+
+</ExcelPhotos>
+
+<ConditionPhotos>
+
+
+<!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+1.jpg</Photo>
+        <ToCellStart>D10016</ToCellStart>
+        <ToCellEnd>AI10037</ToCellEnd>
+        <Flag>D10016</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+1.jpg</Photo>
+        <ToCellStart>D10039</ToCellStart>
+        <ToCellEnd>AI10060</ToCellEnd>
+        <Flag>D10039</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+2.jpg</Photo>
+        <ToCellStart>D10069</ToCellStart>
+        <ToCellEnd>AI10090</ToCellEnd>
+        <Flag>D10069</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+2.jpg</Photo>
+        <ToCellStart>D10092</ToCellStart>
+        <ToCellEnd>AI10113</ToCellEnd>
+        <Flag>D10092</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+3.jpg</Photo>
+        <ToCellStart>D10124</ToCellStart>
+        <ToCellEnd>AI10145</ToCellEnd>
+        <Flag>D10124</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+3.jpg</Photo>
+        <ToCellStart>D10147</ToCellStart>
+        <ToCellEnd>AI10168</ToCellEnd>
+        <Flag>D10147</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+4.jpg</Photo>
+        <ToCellStart>D10179</ToCellStart>
+        <ToCellEnd>AI10200</ToCellEnd>
+        <Flag>D10179</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+4.jpg</Photo>
+        <ToCellStart>D10202</ToCellStart>
+        <ToCellEnd>AI10223</ToCellEnd>
+        <Flag>D10202</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+5.jpg</Photo>
+        <ToCellStart>D10234</ToCellStart>
+        <ToCellEnd>AI10255</ToCellEnd>
+        <Flag>D10234</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+5.jpg</Photo>
+        <ToCellStart>D10257</ToCellStart>
+        <ToCellEnd>AI10278</ToCellEnd>
+        <Flag>D10257</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+6.jpg</Photo>
+        <ToCellStart>D10289</ToCellStart>
+        <ToCellEnd>AI10310</ToCellEnd>
+        <Flag>D10289</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+6.jpg</Photo>
+        <ToCellStart>D10312</ToCellStart>
+        <ToCellEnd>AI10333</ToCellEnd>
+        <Flag>D10312</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+7.jpg</Photo>
+        <ToCellStart>D10344</ToCellStart>
+        <ToCellEnd>AI10365</ToCellEnd>
+        <Flag>D10344</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+7.jpg</Photo>
+        <ToCellStart>D10367</ToCellStart>
+        <ToCellEnd>AI10388</ToCellEnd>
+        <Flag>D10367</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.11 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 80 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS+8.jpg</Photo>
+        <ToCellStart>D10399</ToCellStart>
+        <ToCellEnd>AI10420</ToCellEnd>
+        <Flag>D10399</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 485</FromName>
+        <Photo>CS_TEL+8.jpg</Photo>
+        <ToCellStart>D10422</ToCellStart>
+        <ToCellEnd>AI10443</ToCellEnd>
+        <Flag>D10422</Flag>
+    </ConditionPhoto>
+<!--  -->
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+1.jpg</Photo>
+        <ToCellStart>D10456</ToCellStart>
+        <ToCellEnd>AI10477</ToCellEnd>
+        <Flag>D10456</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+1.jpg</Photo>
+        <ToCellStart>D10479</ToCellStart>
+        <ToCellEnd>AI10500</ToCellEnd>
+        <Flag>D10479</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+2.jpg</Photo>
+        <ToCellStart>D10509</ToCellStart>
+        <ToCellEnd>AI10530</ToCellEnd>
+        <Flag>D10509</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+2.jpg</Photo>
+        <ToCellStart>D10532</ToCellStart>
+        <ToCellEnd>AI10553</ToCellEnd>
+        <Flag>D10532</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+3.jpg</Photo>
+        <ToCellStart>D10564</ToCellStart>
+        <ToCellEnd>AI10585</ToCellEnd>
+        <Flag>D10564</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+3.jpg</Photo>
+        <ToCellStart>D10587</ToCellStart>
+        <ToCellEnd>AI10608</ToCellEnd>
+        <Flag>D10587</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+4.jpg</Photo>
+        <ToCellStart>D10619</ToCellStart>
+        <ToCellEnd>AI10640</ToCellEnd>
+        <Flag>D10619</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+4.jpg</Photo>
+        <ToCellStart>D10642</ToCellStart>
+        <ToCellEnd>AI10663</ToCellEnd>
+        <Flag>D10642</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+5.jpg</Photo>
+        <ToCellStart>D10674</ToCellStart>
+        <ToCellEnd>AI10695</ToCellEnd>
+        <Flag>D10674</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+5.jpg</Photo>
+        <ToCellStart>D10697</ToCellStart>
+        <ToCellEnd>AI10718</ToCellEnd>
+        <Flag>D10697</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+6.jpg</Photo>
+        <ToCellStart>D10729</ToCellStart>
+        <ToCellEnd>AI10750</ToCellEnd>
+        <Flag>D10729</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+6.jpg</Photo>
+        <ToCellStart>D10752</ToCellStart>
+        <ToCellEnd>AI10773</ToCellEnd>
+        <Flag>D10752</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+7.jpg</Photo>
+        <ToCellStart>D10784</ToCellStart>
+        <ToCellEnd>AI10805</ToCellEnd>
+        <Flag>D10784</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+7.jpg</Photo>
+        <ToCellStart>D10807</ToCellStart>
+        <ToCellEnd>AI10828</ToCellEnd>
+        <Flag>D10807</Flag>
+    </ConditionPhoto>
+
+    <!-- 8.12 전도성 RF 전자기장 내성 시험 (0.15 MHz ~ 230 MHz) -->
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS+8.jpg</Photo>
+        <ToCellStart>D10839</ToCellStart>
+        <ToCellEnd>AI10860</ToCellEnd>
+        <Flag>D10839</Flag>
+    </ConditionPhoto>
+
+    <ConditionPhoto>
+    <FromFile>측정지시서</FromFile>
+    <FromName>Check Box 487</FromName>
+        <Photo>CS_TEL+8.jpg</Photo>
+        <ToCellStart>D10862</ToCellStart>
+        <ToCellEnd>AI10883</ToCellEnd>
+        <Flag>D10862</Flag>
+    </ConditionPhoto>
+<!--  -->
+
+</ConditionPhotos>
+
+</Photos>

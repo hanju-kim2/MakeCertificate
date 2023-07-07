@@ -1,0 +1,19 @@
+﻿<Window x:Class="MakeCertificateUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MakeCertificateUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFF1F1F1">
+        <Image Margin="-3,0,0,0" Stretch="Fill" Source="ntree.JPG"/>
+        <Label FontSize="20" Margin="132,10,119.333,215.667" Foreground="Navy" HorizontalAlignment="Center"/>
+        <Label Margin="89,138,342.333,95.667" Content="아이디:" RenderTransformOrigin="0.5,0.507" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Margin="89,170,328.333,68.667" Content="비밀번호:" Foreground="White" RenderTransformOrigin="0.288,1.321" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="idBox" Width="200" Margin="165,146,128.333,100.667" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <PasswordBox x:Name="passwordBox" Width="200" Margin="165,178,128.333,71.667" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Button x:Name="loginButton" Content="로그인" Click="loginButton_Click" HorizontalAlignment="Center" Height="47" Margin="97,212,272.333,11.667" Width="124" VerticalAlignment="Center"/>
+        <Button x:Name="exitButton" Content="나가기" Click="exitButton_Click" HorizontalAlignment="Center" Height="47" Margin="263,212,106.333,11.667" Width="124" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

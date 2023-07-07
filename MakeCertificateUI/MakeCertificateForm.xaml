@@ -1,0 +1,82 @@
+﻿<Window x:Class="MakeCertificateUI.MakeCertificateForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MakeCertificateUI"
+        mc:Ignorable="d"
+        Title="MakeCertificate" Height="649" Width="800" MinWidth="600" MinHeight="500">
+
+    <ScrollViewer>
+        <Grid Height="633" Width="800" MinWidth="300" MinHeight="250">
+            <Label x:Name="label" Content="ver 1.9" HorizontalAlignment="Left" Height="32" Margin="145,42,0,0" VerticalAlignment="Top" Width="57" RenderTransformOrigin="-5.447,1.188"/>
+            <Border Width="364" VerticalAlignment="Top" Margin="363,98,0,0" Height="220" HorizontalAlignment="Left" BorderBrush="#FF221F73" BorderThickness="2,2,2,2" CornerRadius="20,20,20,20" Background="#FFDAE3F3">
+                <Grid>
+                    <Line X1="20" Y1="40" X2="350" Y2="40" Stroke="#FF221F73"/>
+                    <Label Content="폴더 주소" Margin="10,61,0,0" BorderThickness="1" Width="90" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <Label Content="신청자 상호" BorderThickness="1" Width="90" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" Margin="10,100,0,0" HorizontalAlignment="Left"/>
+                    <Label Content="제조자" Margin="10,139,0,0" BorderThickness="1" Width="90" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <Label Content="제조국" Margin="10,178,0,0" BorderThickness="1" Width="90" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <TextBox x:Name="folderPath" Height="30" TextWrapping="Wrap" Width="166" Margin="125,61,0,0" BorderBrush="Black" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <TextBox x:Name="company" Height="30" TextWrapping="Wrap" Width="166" VerticalAlignment="Top" Margin="125,100,0,0" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <TextBox x:Name="manufacturer" Height="30" TextWrapping="Wrap" Width="166" Margin="125,139,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <TextBox x:Name="country" Height="30" TextWrapping="Wrap" Width="166" Margin="125,178,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <Label Height="34" BorderThickness="1" Background="{x:Null}" Foreground="Black" Content="개 요" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="18" Width="90" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                </Grid>
+            </Border>
+            <Border Background="#FFDAE3F3" Height="91" Width="233" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,93,0,0" BorderBrush="#FF221F73" BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                <Grid>
+                    <Line X1="20" Y1="40" X2="220" Y2="40" Fill="Black" Stroke="#FF221F73"/>
+                    <Label Content="성적서 명" BorderThickness="1" Width="72" Foreground="Black" Background="{x:Null}" Margin="10,49,0,0" RenderTransformOrigin="0.481,0.035" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+                    <ComboBox x:Name="selectForm" Margin="89,49,10,0" RenderTransformOrigin="0.261,0.455" IsSynchronizedWithCurrentItem="True" VerticalAlignment="Top">
+                        <ComboBoxItem x:Name="view_KSC_9815_9547" Content="KSC9815/9547(조명기기)"/>
+                        <ComboBoxItem x:Name="view_KSC_9832_9835" Content="KSC9832/9835(멀티미디어기기)"/>
+                        <ComboBoxItem x:Name="view_KSC_9814_1_9814_2" Content="KSC9814-1/9814-2(가전기기)"/>
+                        <ComboBoxItem x:Name="view_KSX_3124_3126" Content="KSX3124/3126(무선데이터통신시스템용)"/>
+                        <ComboBoxItem x:Name="view_KSC_9610_6_1_3" Content="KSC9610-6-1/3(주거 환경에서 사용되는 기기)"/>
+                        <ComboBoxItem x:Name="view_KSC_9610_6_2_4" Content="KSC9610-6-2/4(산업 환경에서 사용되는 기기)"/>
+                        <ComboBoxItem x:Name="view_KSX_3124" Content="KSX3124(무선기기)"/>
+                        <ComboBoxItem x:Name="view_KSX_3124_3125" Content="KSX3124/3125(특정소출력 무선기기)"/>
+                        <ComboBoxItem x:Name="view_KSX_3143_KSC_9814_2" Content="KSX3143/KSC9814-2(가정용 무선전력 전송기기)"/>
+                    </ComboBox>
+                    <Label Height="34" Width="140" BorderThickness="1" Background="{x:Null}" Foreground="Black" Content="모듈 선택" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="18"/>
+                </Grid>
+            </Border>
+            <Label Content="성적서 자동화 프로그램" HorizontalAlignment="Left" Margin="140,10,0,0" VerticalAlignment="Top" Height="41" Width="315" FontSize="24" Foreground="Black"/>
+            <Border Width="87" VerticalAlignment="Top" Margin="254,93,0,0" Height="91" HorizontalAlignment="Left" BorderBrush="Black" BorderThickness="1,1,1,1" CornerRadius="5,5,5,5" Background="White">
+                <Button x:Name="selectPathButton" Content="폴더&#xA;지정" Click="selectPathButton_Click" BorderBrush="{x:Null}" Background="{x:Null}" FontSize="22" Foreground="Black"/>
+            </Border>
+            <Border HorizontalAlignment="Left" Height="47" Margin="621,563,0,0" VerticalAlignment="Top" Width="106" BorderBrush="Black" BorderThickness="1,1,1,1" CornerRadius="5,5,5,5" >
+                <Button x:Name="makeCertificateButton" Content="성적서 &#xA;만들기" Click="makeCertificateButton_Click" FontSize="16" BorderBrush="{x:Null}" Background="{x:Null}"/>
+            </Border>
+            <Border HorizontalAlignment="Left" Height="366" Margin="14,189,0,0" VerticalAlignment="Top" Width="328" BorderBrush="#FFF27676" BorderThickness="3,3,3,3" CornerRadius="30,30,30,30" Background="#FFF2CFCF">
+                <Grid>
+                    <Label Content="경고 사항" Height="35" Width="326" Background="{x:Null}" Foreground="Black" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Center" HorizontalContentAlignment="Center" BorderThickness="2,2,2,2" ClipToBounds="True"/>
+                    <TextBox x:Name="warningBox" Height="310" Width="284" Background="White" Foreground="#FF0E0A0A" BorderBrush="#FFA12C2C" BorderThickness="1,1,1,1" Margin="19,40,19,10"/>
+                </Grid>
+            </Border>
+            <Image Margin="0,-7,660,559" Source="ntree_logo.jpg" Stretch="Fill"/>
+            <Border HorizontalAlignment="Left" Height="47" Margin="14,563,0,0" VerticalAlignment="Top" Width="588" BorderBrush="#FF221F73" BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" Background="#FFDAE3F3" >
+                <ProgressBar x:Name="progressBar" Background="{x:Null}" Foreground="#FF221F73" ValueChanged="ProgressBar_ValueChanged" BorderBrush="{x:Null}"/>
+            </Border>
+            <Label x:Name="progress_text" Content="진행률" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" BorderThickness="1" Foreground="#FF010101" Width="63" Height="33" Margin="16,570,0,0" FontSize="16"/>
+            <Border Width="364" Margin="363,333,0,0" HorizontalAlignment="Left" BorderBrush="#FF221F73" BorderThickness="2,2,2,2" CornerRadius="20,20,20,20" Background="#FFDAE3F3" VerticalAlignment="Top" Height="220">
+                <Grid>
+                    <Line X1="20" Y1="40" X2="350" Y2="40" Stroke="#FF221F73"/>
+                    <Label Content="성적서 파일명" Margin="10,61,0,0" BorderThickness="1" Width="105" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <Label Content="제품사진 파일명" Margin="10,100,0,0" BorderThickness="1" Width="105" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <Label Content="성적서 번호" Margin="10,139,0,0" BorderThickness="1" Width="106" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <Label Content="발급일" Margin="10,178,0,0" BorderThickness="1" Width="105" Foreground="Black" Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <TextBox x:Name="certificateName" Height="30" TextWrapping="Wrap" Width="166" Margin="125,61,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <TextBox x:Name="photoName" Height="30" TextWrapping="Wrap" Text="" Width="166" Margin="125,100,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <TextBox x:Name="certificateNumber" Height="30" TextWrapping="Wrap" Text="" Width="166" Margin="125,139,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <TextBox x:Name="issueDate" Height="30" TextWrapping="Wrap" Text="" Width="166" Margin="125,178,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black"/>
+                    <Label Height="34" BorderThickness="1" Background="{x:Null}" Foreground="Black" Content="입력 사항" HorizontalContentAlignment="Center" Padding="0,0,0,0" VerticalContentAlignment="Center" FontSize="18" RenderTransformOrigin="0.5,0.5" Width="114" VerticalAlignment="Top" HorizontalAlignment="Center">
+                    </Label>
+                </Grid>
+            </Border>
+
+
+        </Grid>
+    </ScrollViewer>
+</Window>

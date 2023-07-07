@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Photos>
+<BasicPhotos>
+    <!-- 03_PHOTO 폴더 / 제품사진 / 전면.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 전면.jpg</Photo>
+        <ToCellStart>D7</ToCellStart>
+        <ToCellEnd>AI28</ToCellEnd>
+        <Flag>D7</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 후면.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 후면.jpg</Photo>
+        <ToCellStart>D31</ToCellStart>
+        <ToCellEnd>AI52</ToCellEnd>
+        <Flag>D31</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 라벨.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 라벨.jpg</Photo>
+        <ToCellStart>D59</ToCellStart>
+        <ToCellEnd>AI80</ToCellEnd>
+        <Flag>D59</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 내부.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 내부.jpg</Photo>
+        <ToCellStart>D85</ToCellStart>
+        <ToCellEnd>AI106</ToCellEnd>
+        <Flag>D85</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 1.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>1.jpg</Photo>
+        <ToCellStart>D114</ToCellStart>
+        <ToCellEnd>AI135</ToCellEnd>
+        <Flag>D114</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 2.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>2.jpg</Photo>
+        <ToCellStart>D138</ToCellStart>
+        <ToCellEnd>AI159</ToCellEnd>
+        <Flag>C138</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 3.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>3.jpg</Photo>
+        <ToCellStart>D169</ToCellStart>
+        <ToCellEnd>AI190</ToCellEnd>
+        <Flag>D169</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 4.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>4.jpg</Photo>
+        <ToCellStart>D192</ToCellStart>
+        <ToCellEnd>AI213</ToCellEnd>
+        <Flag>D192</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 5.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>5.jpg</Photo>
+        <ToCellStart>D224</ToCellStart>
+        <ToCellEnd>AI245</ToCellEnd>
+        <Flag>D224</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 6.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>6.jpg</Photo>
+        <ToCellStart>D248</ToCellStart>
+        <ToCellEnd>AI269</ToCellEnd>
+        <Flag>D248</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 7.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>7.jpg</Photo>
+        <ToCellStart>D279</ToCellStart>
+        <ToCellEnd>AI300</ToCellEnd>
+        <Flag>D279</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 8.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>8.jpg</Photo>
+        <ToCellStart>D303</ToCellStart>
+        <ToCellEnd>AE324</ToCellEnd>
+        <Flag>D303</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 9.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>9.jpg</Photo>
+        <ToCellStart>D334</ToCellStart>
+        <ToCellEnd>AE355</ToCellEnd>
+        <Flag>D334</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 10.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>10.jpg</Photo>
+        <ToCellStart>D358</ToCellStart>
+        <ToCellEnd>AE379</ToCellEnd>
+        <Flag>D358</Flag>
+    </BasicPhoto>
+    
+</BasicPhotos>
+</Photos>

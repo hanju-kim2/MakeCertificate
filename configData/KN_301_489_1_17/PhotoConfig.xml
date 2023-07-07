@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Photos>
+<BasicPhotos>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+1.jpg</Photo>
+        <ToCellStart>C1600</ToCellStart>
+        <ToCellEnd>AH1646</ToCellEnd>
+        <Flag>C1600</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+1.jpg</Photo>
+        <ToCellStart>C1655</ToCellStart>
+        <ToCellEnd>AH1701</ToCellEnd>
+        <Flag>C1655</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+2.jpg</Photo>
+        <ToCellStart>C1710</ToCellStart>
+        <ToCellEnd>AH1756</ToCellEnd>
+        <Flag>C1710</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+2.jpg</Photo>
+        <ToCellStart>C1765</ToCellStart>
+        <ToCellEnd>AH1811</ToCellEnd>
+        <Flag>C1765</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+3.jpg</Photo>
+        <ToCellStart>C1820</ToCellStart>
+        <ToCellEnd>AH1866</ToCellEnd>
+        <Flag>C1820</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+3.jpg</Photo>
+        <ToCellStart>C1875</ToCellStart>
+        <ToCellEnd>AH1921</ToCellEnd>
+        <Flag>C1875</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+4.jpg</Photo>
+        <ToCellStart>C1930</ToCellStart>
+        <ToCellEnd>AH1976</ToCellEnd>
+        <Flag>C1930</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+4.jpg</Photo>
+        <ToCellStart>C1985</ToCellStart>
+        <ToCellEnd>AH2031</ToCellEnd>
+        <Flag>C1985</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+5.jpg</Photo>
+        <ToCellStart>C2040</ToCellStart>
+        <ToCellEnd>AH2086</ToCellEnd>
+        <Flag>C2040</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+5.jpg</Photo>
+        <ToCellStart>C2095</ToCellStart>
+        <ToCellEnd>AH2141</ToCellEnd>
+        <Flag>C2095</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+6.jpg</Photo>
+        <ToCellStart>C2150</ToCellStart>
+        <ToCellEnd>AH2196</ToCellEnd>
+        <Flag>C2150</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+6.jpg</Photo>
+        <ToCellStart>C2205</ToCellStart>
+        <ToCellEnd>AH2251</ToCellEnd>
+        <Flag>C2205</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+7.jpg</Photo>
+        <ToCellStart>C2260</ToCellStart>
+        <ToCellEnd>AH2306</ToCellEnd>
+        <Flag>C2260</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+7.jpg</Photo>
+        <ToCellStart>C2315</ToCellStart>
+        <ToCellEnd>AH2361</ToCellEnd>
+        <Flag>C2315</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_L+8.jpg</Photo>
+        <ToCellStart>C2370</ToCellStart>
+        <ToCellEnd>AH2416</ToCellEnd>
+        <Flag>C2370</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE -->
+    <BasicPhoto>
+        <Photo>CE_N+8.jpg</Photo>
+        <ToCellStart>C2425</ToCellStart>
+        <ToCellEnd>AH2471</ToCellEnd>
+        <Flag>C2425</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+1.jpg</Photo>
+        <ToCellStart>C2590</ToCellStart>
+        <ToCellEnd>AH2635</ToCellEnd>
+        <Flag>C2590</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+1.jpg</Photo>
+        <ToCellStart>C2645</ToCellStart>
+        <ToCellEnd>AH2690</ToCellEnd>
+        <Flag>C2645</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+2.jpg</Photo>
+        <ToCellStart>C2700</ToCellStart>
+        <ToCellEnd>AH2745</ToCellEnd>
+        <Flag>C2700</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+2.jpg</Photo>
+        <ToCellStart>C2755</ToCellStart>
+        <ToCellEnd>AH2800</ToCellEnd>
+        <Flag>C2755</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+3.jpg</Photo>
+        <ToCellStart>C2810</ToCellStart>
+        <ToCellEnd>AH2855</ToCellEnd>
+        <Flag>C2810</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+3.jpg</Photo>
+        <ToCellStart>C2865</ToCellStart>
+        <ToCellEnd>AH2910</ToCellEnd>
+        <Flag>C2865</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+4.jpg</Photo>
+        <ToCellStart>C2920</ToCellStart>
+        <ToCellEnd>AH2965</ToCellEnd>
+        <Flag>C2920</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+4.jpg</Photo>
+        <ToCellStart>C2975</ToCellStart>
+        <ToCellEnd>AH3020</ToCellEnd>
+        <Flag>C2975</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+5.jpg</Photo>
+        <ToCellStart>C3030</ToCellStart>
+        <ToCellEnd>AH3075</ToCellEnd>
+        <Flag>C3030</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+5.jpg</Photo>
+        <ToCellStart>C3085</ToCellStart>
+        <ToCellEnd>AH3130</ToCellEnd>
+        <Flag>C3085</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+6.jpg</Photo>
+        <ToCellStart>C3140</ToCellStart>
+        <ToCellEnd>AH3185</ToCellEnd>
+        <Flag>C3140</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+6.jpg</Photo>
+        <ToCellStart>C3195</ToCellStart>
+        <ToCellEnd>AH3240</ToCellEnd>
+        <Flag>C3195</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+7.jpg</Photo>
+        <ToCellStart>C3250</ToCellStart>
+        <ToCellEnd>AH3295</ToCellEnd>
+        <Flag>C3250</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+7.jpg</Photo>
+        <ToCellStart>C3305</ToCellStart>
+        <ToCellEnd>AH3350</ToCellEnd>
+        <Flag>C3305</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_10+8.jpg</Photo>
+        <ToCellStart>C3360</ToCellStart>
+        <ToCellEnd>AH3405</ToCellEnd>
+        <Flag>C3360</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / CE_TEL -->
+    <BasicPhoto>
+        <Photo>CE_TEL_1000+8.jpg</Photo>
+        <ToCellStart>C3415</ToCellStart>
+        <ToCellEnd>AH3460</ToCellEnd>
+        <Flag>C3415</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+1.jpg</Photo>
+        <ToCellStart>C3580</ToCellStart>
+        <ToCellEnd>AH3626</ToCellEnd>
+        <Flag>C3580</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+2.jpg</Photo>
+        <ToCellStart>C3635</ToCellStart>
+        <ToCellEnd>AH3681</ToCellEnd>
+        <Flag>C3635</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+3.jpg</Photo>
+        <ToCellStart>C3690</ToCellStart>
+        <ToCellEnd>AH3736</ToCellEnd>
+        <Flag>C3690</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+4.jpg</Photo>
+        <ToCellStart>C3745</ToCellStart>
+        <ToCellEnd>AH3791</ToCellEnd>
+        <Flag>C3745</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+5.jpg</Photo>
+        <ToCellStart>C3800</ToCellStart>
+        <ToCellEnd>AH3846</ToCellEnd>
+        <Flag>C3800</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+6.jpg</Photo>
+        <ToCellStart>C3855</ToCellStart>
+        <ToCellEnd>AH3901</ToCellEnd>
+        <Flag>C3855</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+7.jpg</Photo>
+        <ToCellStart>C3910</ToCellStart>
+        <ToCellEnd>AH3956</ToCellEnd>
+        <Flag>C3910</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / RE -->
+    <BasicPhoto>
+        <Photo>RE+8.jpg</Photo>
+        <ToCellStart>C3965</ToCellStart>
+        <ToCellEnd>AH4011</ToCellEnd>
+        <Flag>C3965</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+1.jpg</Photo>
+        <ToCellStart>C4130</ToCellStart>
+        <ToCellEnd>AH4175</ToCellEnd>
+        <Flag>C4130</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+1.jpg</Photo>
+        <ToCellStart>C4185</ToCellStart>
+        <ToCellEnd>AH4230</ToCellEnd>
+        <Flag>C4185</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+2.jpg</Photo>
+        <ToCellStart>C4240</ToCellStart>
+        <ToCellEnd>AH4285</ToCellEnd>
+        <Flag>C4240</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+2.jpg</Photo>
+        <ToCellStart>C4295</ToCellStart>
+        <ToCellEnd>AH4340</ToCellEnd>
+        <Flag>C4295</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+3.jpg</Photo>
+        <ToCellStart>C4350</ToCellStart>
+        <ToCellEnd>AH4395</ToCellEnd>
+        <Flag>C4350</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+3.jpg</Photo>
+        <ToCellStart>C4405</ToCellStart>
+        <ToCellEnd>AH4450</ToCellEnd>
+        <Flag>C4405</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+4.jpg</Photo>
+        <ToCellStart>C4460</ToCellStart>
+        <ToCellEnd>AH4505</ToCellEnd>
+        <Flag>C4460</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+4.jpg</Photo>
+        <ToCellStart>C4515</ToCellStart>
+        <ToCellEnd>AH4560</ToCellEnd>
+        <Flag>C4515</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+5.jpg</Photo>
+        <ToCellStart>C4570</ToCellStart>
+        <ToCellEnd>AH4615</ToCellEnd>
+        <Flag>C4570</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+5.jpg</Photo>
+        <ToCellStart>C4625</ToCellStart>
+        <ToCellEnd>AH4670</ToCellEnd>
+        <Flag>C4625</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+6.jpg</Photo>
+        <ToCellStart>C4680</ToCellStart>
+        <ToCellEnd>AH4725</ToCellEnd>
+        <Flag>C4680</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+6.jpg</Photo>
+        <ToCellStart>C4735</ToCellStart>
+        <ToCellEnd>AH4780</ToCellEnd>
+        <Flag>C4735</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+7.jpg</Photo>
+        <ToCellStart>C4790</ToCellStart>
+        <ToCellEnd>AH4835</ToCellEnd>
+        <Flag>C4790</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+7.jpg</Photo>
+        <ToCellStart>C4845</ToCellStart>
+        <ToCellEnd>AH4890</ToCellEnd>
+        <Flag>C4845</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / HOR -->
+    <BasicPhoto>
+        <Photo>HOR+8.jpg</Photo>
+        <ToCellStart>C4900</ToCellStart>
+        <ToCellEnd>AH4945</ToCellEnd>
+        <Flag>C4900</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / VER -->
+    <BasicPhoto>
+        <Photo>VER+8.jpg</Photo>
+        <ToCellStart>C4955</ToCellStart>
+        <ToCellEnd>AH5000</ToCellEnd>
+        <Flag>C4955</Flag>
+    </BasicPhoto>
+<!--  -->
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 전면.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 전면.jpg</Photo>
+        <ToCellStart>C7048</ToCellStart>
+        <ToCellEnd>AH7068</ToCellEnd>
+        <Flag>C7048</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 후면.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 후면.jpg</Photo>
+        <ToCellStart>C7070</ToCellStart>
+        <ToCellEnd>AH7090</ToCellEnd>
+        <Flag>C7070</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 라벨.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 라벨.jpg</Photo>
+        <ToCellStart>C7104</ToCellStart>
+        <ToCellEnd>AH7125</ToCellEnd>
+        <Flag>C7104</Flag>
+    </BasicPhoto>
+
+    <!-- 03_PHOTO 폴더 / 제품사진 / 내부.jpg 삽입 -->
+    <BasicPhoto>
+        <Photo>제품 내부.jpg</Photo>
+        <ToCellStart>C7124</ToCellStart>
+        <ToCellEnd>AH7145</ToCellEnd>
+        <Flag>C7124</Flag>
+    </BasicPhoto>
+
+</BasicPhotos>
+
+<ExcelPhotos>
+<!-- 8페이지 -->
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 1</Photo>
+        <ToCellStart>D393</ToCellStart>
+        <ToCellEnd>S404</ToCellEnd>
+    </ExcelPhoto>
+
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 2</Photo>
+        <ToCellStart>T393</ToCellStart>
+        <ToCellEnd>AI404</ToCellEnd>
+    </ExcelPhoto>
+
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 3</Photo>
+        <ToCellStart>D415</ToCellStart>
+        <ToCellEnd>S425</ToCellEnd>
+    </ExcelPhoto>
+
+    <!-- 01_접수자료폴더/3.4 피시험기기 보완 내용 엑셀파일의 내용 기입 -->
+    <ExcelPhoto>
+        <Excel>3.4 피시험기기 보완내용.xlsx</Excel>
+        <Photo>그림 4</Photo>
+        <ToCellStart>T415</ToCellStart>
+        <ToCellEnd>AI425</ToCellEnd>
+    </ExcelPhoto>
+
+<!-- 13페이지 -->
+    <!-- 02_DATA / 측정지시서 2p / 2-3 시험기기 배치도의 그림1 기입 -->
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>그림 1</Photo>
+        <ToCellStart>C1072</ToCellStart>
+        <ToCellEnd>AH1089</ToCellEnd>
+    </ExcelPhoto>
+
+<!-- 35페이지 -->
+    <!-- '02_DATA / 측정지시서 20p / 정전기 방전 그림 2 기입 -->
+    <ExcelPhoto>
+        <Excel>측정지시서</Excel>
+        <Photo>그림 2</Photo>
+        <ToCellStart>C5120</ToCellStart>
+        <ToCellEnd>AH5137</ToCellEnd>
+    </ExcelPhoto>
+
+</ExcelPhotos>
+
+<NewPagePhotos>
+    <!-- 02_DATA폴더 / CE 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>CE1+</Tag>
+        <Page>111</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 02_DATA폴더 /  CE 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>CE2+</Tag>
+        <Page>112</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 02_DATA폴더 /  CE_TEL1 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>CE_TEL1+</Tag>
+        <Page>113</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 02_DATA폴더 /  CE_TEL2 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>CE_TEL2+</Tag>
+        <Page>114</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 02_DATA폴더 /  RE1 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>RE1+</Tag>
+        <Page>115</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 02_DATA폴더 /  R2E 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>RE2+</Tag>
+        <Page>116</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 폴더 / ABOVE1 이미지 파일 삽입 -->
+    <NewPagePhoto>
+        <Tag>ABOVE1+</Tag>
+        <Page>117</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / ABOVE2.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>ABOVE2+</Tag>
+        <Page>118</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / ESD.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>ESD+</Tag>
+        <Page>119</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / RS_SPL.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>RS_SPL+</Tag>
+        <Page>121</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / EFT.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>EFT+</Tag>
+        <Page>122</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / EFT_TEL.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>EFT_TEL+</Tag>
+        <Page>123</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / SURGE.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>SURGE+</Tag>
+        <Page>124</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / SURGE_TEL.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>SURGE_TEL+</Tag>
+        <Page>125</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / CS.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>CS+</Tag>
+        <Page>126</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / CS_TEL.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>CS_TEL+</Tag>
+        <Page>127</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+    <!-- 03_PHOTO 폴더 / 시험사진 / DIP.jpg 삽입 -->
+    <NewPagePhoto>
+        <Tag>DIP+</Tag>
+        <Page>128</Page>
+        <PhotoPerPage>2</PhotoPerPage>
+    </NewPagePhoto>
+
+</NewPagePhotos>
+
+</Photos>

@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Controls>
+  <CheckSingles>
+
+<!-- 5페이지 -->
+    <!-- 제품구분 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 175</FromName>
+      <ToName>Check Box 159</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 176</FromName>
+      <ToName>Check Box 160</ToName>
+    </CheckSingle>
+
+<!-- 7페이지 -->
+    <!-- 적용 여부 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 14</FromName>
+      <ToName>Check Box 161</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 15</FromName>
+      <ToName>Check Box 162</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 11</FromName>
+      <ToName>Check Box 173</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 12</FromName>
+      <ToName>Check Box 163</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 24</FromName>
+      <ToName>Check Box 166</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 25</FromName>
+      <ToName>Check Box 167</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 27</FromName>
+      <ToName>Check Box 168</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 28</FromName>
+      <ToName>Check Box 169</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 29</FromName>
+      <ToName>Check Box 170</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 32</FromName>
+      <ToName>Check Box 172</ToName>
+    </CheckSingle>
+
+    <!-- 주전원포트 방해전압 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 298</FromName>
+      <ToName>Check Box 333</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 299</FromName>
+      <ToName>Check Box 187</ToName>
+    </CheckSingle>
+
+    <!-- 통신 포트 전도성 방해시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 301</FromName>
+      <ToName>Check Box 175</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 302</FromName>
+      <ToName>Check Box 188</ToName>
+    </CheckSingle>
+
+    <!-- 1 GHz 이하 주파수에서 방사성 방해시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 289</FromName>
+      <ToName>Check Box 186</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 290</FromName>
+      <ToName>Check Box 199</ToName>
+    </CheckSingle>
+
+    <!-- 1 GHz 초과 주파수에서 방사성 방해시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 292</FromName>
+      <ToName>Check Box 176</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 293</FromName>
+      <ToName>Check Box 189</ToName>
+    </CheckSingle>
+
+    <!-- 정전기 방전 내성 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 325</FromName>
+      <ToName>Check Box 179</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 326</FromName>
+      <ToName>Check Box 192</ToName>
+    </CheckSingle>
+
+    <!-- 방사성 RF 전자기장 내성 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 328</FromName>
+      <ToName>Check Box 180</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 329</FromName>
+      <ToName>Check Box 193</ToName>
+    </CheckSingle>
+
+    <!-- 전기적 빠른 과도현상/버스트 내성 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 393</FromName>
+      <ToName>Check Box 181</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 394</FromName>
+      <ToName>Check Box 194</ToName>
+    </CheckSingle>
+
+    <!-- 서지 내성 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 337</FromName>
+      <ToName>Check Box 182</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 338</FromName>
+      <ToName>Check Box 195</ToName>
+    </CheckSingle>
+
+    <!-- 전도성 RF 전자기장 내성 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 340</FromName>
+      <ToName>Check Box 183</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 341</FromName>
+      <ToName>Check Box 196</ToName>
+    </CheckSingle>
+
+    <!-- 전압강하 및 순간정전 내성 시험의 적합, 부적합 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 434</FromName>
+      <ToName>Check Box 185</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 435</FromName>
+      <ToName>Check Box 198</ToName>
+    </CheckSingle>
+
+<!-- 7.0 시험 적합, 부적합 -->
+    <!-- 7.1 주 전원포트 방해 전압 시험 / 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 298</FromName>
+      <ToName>Check Box 54</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 299</FromName>
+      <ToName>Check Box 56</ToName>
+    </CheckSingle>
+
+    <!-- 7.2 통신 포트 전도성 방해시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 301</FromName>
+      <ToName>Check Box 62</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 302</FromName>
+      <ToName>Check Box 63</ToName>
+    </CheckSingle>
+
+    <!-- 7.3 1 GHz 이하 주파수에서 방사성 방해 시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 289</FromName>
+      <ToName>Check Box 221</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 290</FromName>
+      <ToName>Check Box 222</ToName>
+    </CheckSingle>
+
+    <!-- 7.4 1 GHz 이상 주파수에서 방사성 방해 시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 292</FromName>
+      <ToName>Check Box 211</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 293</FromName>
+      <ToName>Check Box 212</ToName>
+    </CheckSingle>
+
+    <!-- 7.5 정전기 방전 내성 시험 / 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 325</FromName>
+      <ToName>Check Box 93</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 326</FromName>
+      <ToName>Check Box 94</ToName>
+    </CheckSingle>
+
+    <!-- 7.6 방사성 RF 전자기장 내성 시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 328</FromName>
+      <ToName>Check Box 105</ToName>
+    </CheckSingle>
+
+   <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 329</FromName>
+      <ToName>Check Box 106</ToName>
+    </CheckSingle>
+
+    <!-- 7.6 방사성 RF 전자기장 내성 시험 종류 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 25</FromName>
+      <ToName>Check Box 231</ToName>
+    </CheckSingle>
+
+    <!-- 7.7 전기적 빠른 과도 현상 / 버스트 내성시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 393</FromName>
+      <ToName>Check Box 113</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 394</FromName>
+      <ToName>Check Box 114</ToName>
+    </CheckSingle>
+
+    <!-- 7.8 서지 내성 시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 337</FromName>
+      <ToName>Check Box 123</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 338</FromName>
+      <ToName>Check Box 124</ToName>
+    </CheckSingle>
+
+    <!-- 7.9 전도성 RF 전자기장 내성 시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 340</FromName>
+      <ToName>Check Box 139</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 341</FromName>
+      <ToName>Check Box 140</ToName>
+    </CheckSingle>
+
+    <!-- 7.9 전도성 RF 전자기장 내성 시험 종류 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 29</FromName>
+      <ToName>Check Box 244</ToName>
+    </CheckSingle>
+
+    <!-- 7.10 전압강하 및 순간정전 내성 시험 적합, 부적합에 맞춰 체크 확인 -->
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 434</FromName>
+      <ToName>Check Box 156</ToName>
+    </CheckSingle>
+
+    <CheckSingle>
+      <FromFile>측정지시서</FromFile>
+      <FromName>Check Box 435</FromName>
+      <ToName>Check Box 157</ToName>
+    </CheckSingle>
+
+  </CheckSingles>
+
+
+<InverseCheckSingles>
+
+    <!-- 7.1 주 전원포트 방해 전압 시험항목의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 14</FromName>
+        <ToName>Check Box 57</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.2 통신 포트 전도성 방해시험항목의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 15</FromName>
+        <ToName>Check Box 64</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.3 1 GHz 이하 주파수에서 방사성 방해 시험항목의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 11</FromName>
+        <ToName>Check Box 223</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.4 1 GHz 이상 주파수에서 방사성 방해 시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 12</FromName>
+        <ToName>Check Box 213</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.5 정전기 방전 내성 시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 24</FromName>
+        <ToName>Check Box 95</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.6 방사성 RF 전자기장 내성 시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 25</FromName>
+        <ToName>Check Box 107</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.7 전기적 빠른 과도 현상 / 버스트 내성시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 27</FromName>
+        <ToName>Check Box 115</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.8 서지 내성 시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 28</FromName>
+        <ToName>Check Box 125</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.9 전도성 RF 전자기장 내성 시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 29</FromName>
+        <ToName>Check Box 141</ToName>
+    </InverseCheckSingle>
+
+    <!-- 7.10 전압강하 및 순간정전 내성 시험의 시험 유무에 체크가 안되어 있는 경우 해당없음에 체크 -->
+    <InverseCheckSingle>
+        <FromFile>측정지시서</FromFile>
+        <FromName>Check Box 32</FromName>
+        <ToName>Check Box 158</ToName>
+    </InverseCheckSingle>
+
+</InverseCheckSingles>
+
+
+
+</Controls>
